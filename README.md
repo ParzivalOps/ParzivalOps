@@ -5,10 +5,10 @@
 <div align="center">
 
   <img
-  src="https://cdn.jsdelivr.net/gh/ParzivalRp/ParzivalRp@main/.assets/avatar.gif"
-  width="155"
-  alt="Parzival Avatar"
-/>
+    src="https://cdn.jsdelivr.net/gh/ParzivalRp/ParzivalRp@main/.assets/avatar.gif"
+    width="155"
+    alt="Parzival Avatar"
+  />
 
   <br /><br />
 
@@ -19,9 +19,7 @@
 
   <h2>Discord Architect · AI Automation Specialist</h2>
 
-  <p>
-    Building secure, scalable and intelligent systems for modern communities.
-  </p>
+  <p>Building secure, scalable and intelligent systems for modern communities.</p>
 
   <img
     src="https://komarev.com/ghpvc/?username=ParzivalRp&label=PROFILE%20VIEWS&color=C9A227&style=flat-square"
@@ -89,12 +87,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ParzivalRp&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C9A227&icon_color=C9A227&text_color=E8E8E8&include_all_commits=true&count_private=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParzivalRp&theme=github_dark"
     height="180"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ParzivalRp&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=E8E8E8&langs_count=8"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParzivalRp&theme=github_dark"
     height="180"
     alt="Most Used Languages"
   />
@@ -139,7 +137,5 @@
 <br />
 
 <div align="center">
-  <sub>
-    <i>“Code is not just logic; it's an art.”</i>
-  </sub>
+  <sub><i>“Code is not just logic; it's an art.”</i></sub>
 </div>
