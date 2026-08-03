@@ -5,7 +5,7 @@
 <div align="center">
 
   <img
-    src="https://cdn.jsdelivr.net/gh/ParzivalRp/ParzivalRp@main/.assets/avatar.gif"
+    src="./.assets/photo_1785790203436.jpeg"
     width="155"
     alt="Parzival Avatar"
   />
@@ -85,18 +85,35 @@
   GitHub Statistics
 </h3>
 
-<p align="center">
+<div align="center">
+
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParzivalRp&theme=github_dark"
-    height="180"
-    alt="GitHub Stats"
+    src="https://img.shields.io/github/followers/ParzivalRp?style=for-the-badge&label=FOLLOWERS&labelColor=0D0D0D&color=C9A227&logo=github&logoColor=C9A227"
+    alt="GitHub Followers"
   />
+
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParzivalRp&theme=github_dark"
-    height="180"
-    alt="Most Used Languages"
+    src="https://img.shields.io/github/stars/ParzivalRp/ParzivalRp?style=for-the-badge&label=PROFILE%20STARS&labelColor=0D0D0D&color=C9A227&logo=github&logoColor=C9A227"
+    alt="Profile Repository Stars"
   />
-</p>
+
+  <br /><br />
+
+  <a href="https://github.com/ParzivalRp?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Repositories-View%20Projects-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=C9A227&logo=github&logoColor=C9A227"
+      alt="View GitHub Repositories"
+    />
+  </a>
+
+  <a href="https://github.com/ParzivalRp">
+    <img
+      src="https://img.shields.io/badge/GitHub-ParzivalRp-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=C9A227&logo=github&logoColor=C9A227"
+      alt="ParzivalRp GitHub Profile"
+    />
+  </a>
+
+</div>
 
 <br />
 
