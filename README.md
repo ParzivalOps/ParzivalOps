@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./.assets/avatar.gif" width="160" alt="Abolfazl Mohammadi avatar">
+<img src="https://github.com/ParzivalRp/ParzivalRp/blob/main/.assets/avatar.gif?raw=true" width="160" alt="Abolfazl Mohammadi avatar">
 
 # Abolfazl Mohammadi
 
@@ -59,8 +59,8 @@ An AI-powered operations platform built with FastAPI, LangGraph, and Next.js 14,
 ## Gallery
 
 <div align="center">
-  <img src="./.assets/photo_1785790203436.jpeg" width="45%" alt="Project Preview 1">
-  <img src="./.assets/photo_1785790836616.jpeg" width="45%" alt="Project Preview 2">
+  <img src="https://github.com/ParzivalRp/ParzivalRp/blob/main/.assets/photo_1785790203436.jpeg?raw=true" width="45%" alt="Project Preview 1">
+  <img src="https://github.com/ParzivalRp/ParzivalRp/blob/main/.assets/photo_1785790836616.jpeg?raw=true" width="45%" alt="Project Preview 2">
 </div>
 
 ---
