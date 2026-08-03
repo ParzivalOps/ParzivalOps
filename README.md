@@ -1,132 +1,80 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-  <img
-    src="./.assets/avatar.gif"
-    width="155"
-    alt="Parzival Avatar"
-  />
+<img src="./.assets/avatar.gif" width="160" alt="Abolfazl Mohammadi avatar">
 
-  <br /><br />
+# Abolfazl Mohammadi
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,C9A227&height=150&section=header&text=Parzival%20%2F%2F%20Abolfazl%20Mohammadi&fontSize=35&fontColor=F5F5F5&animation=fadeIn"
-    alt="Parzival Header"
-  />
+### Developer · Discord Bot Engineer · AI Systems Builder
 
-  <h2>Discord Architect · AI Automation Specialist</h2>
-
-  <p>
-    Building secure, scalable and intelligent systems for modern communities.
-  </p>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=ParzivalRp&label=PROFILE%20VIEWS&color=C9A227&style=flat-square"
-    alt="Profile Views"
-  />
+[![GitHub](https://img.shields.io/badge/GitHub-ParzivalRp-C9A227?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/ParzivalRp)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-C9A227?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:Abolparzival@gmail.com)
 
 </div>
 
-<br />
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT ME                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## About Me
 
-<h3>
-  <img src="https://img.icons8.com/ios-filled/20/C9A227/user.png" width="18" alt="User" />
-  <img src="https://img.shields.io/badge/01-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="01" />
-  About Me
-</h3>
+I am **Abolfazl Mohammadi**, a developer and AI-focused engineer from Iran, working remotely with an international mindset.
 
-> **Senior Discord Developer & AI Integration Specialist.**  
-> I don't just write code; I architect systems that scale. My focus is on Discord automation, AI-driven bots, and high-security integrations.
->
-> معمار سیستم‌های دیسکورد و متخصص هوش مصنوعی. تمرکز من روی طراحی سیستم‌های اتوماسیون مقیاس‌پذیر و امن است. من فقط بات نمی‌سازم؛ زیرساخت‌های هوشمند برای کامیونیتی‌ها مهندسی می‌کنم.
+My main areas of work include Discord and Telegram bots, AI and LLM systems, SaaS platforms, financial and trading intelligence, automation, electronics, and modern web interfaces.
 
-<br />
+I enjoy turning complex ideas into reliable, practical, and visually refined products.
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       CORE TECH STACK                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
-<h3>
-  <img src="https://img.icons8.com/ios-filled/20/C9A227/source-code.png" width="18" alt="Code" />
-  <img src="https://img.shields.io/badge/02-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="02" />
-  Core Tech Stack
-</h3>
+### درباره من
 
-<div align="center">
+من **ابوالفضل محمدی** هستم؛ توسعه‌دهنده، طراح رابط کاربری و مهندس سیستم‌های هوش مصنوعی.
 
-  <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=C9A227&labelColor=151515" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=151515" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=C9A227&labelColor=151515" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-151515?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=151515" alt="Go" />
+در زمینه‌های زیر فعالیت می‌کنم:
 
-  <br />
+- توسعه ربات‌های Discord و Telegram
+- طراحی و توسعه سامانه‌های مبتنی بر AI و LLM
+- ساخت ابزارهای SaaS و اتوماسیون
+- تحلیل مالی و سیستم‌های هوشمند معاملاتی
+- طراحی سایت و رابط کاربری
+- امنیت و توسعه افزونه‌های WordPress
+- الکترونیک و مهندسی برق
 
-  <img src="https://img.shields.io/badge/Discord.js-151515?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=151515" alt="Discord.js" />
-  <img src="https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=151515" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Next.js-151515?style=for-the-badge&logo=nextdotjs&logoColor=F5F5F5&labelColor=151515" alt="Next.js" />
-  <img src="https://img.shields.io/badge/LangChain-151515?style=for-the-badge&logo=langchain&logoColor=C9A227&labelColor=151515" alt="LangChain" />
+تمرکز من ساخت محصولاتی کاربردی، پایدار و قابل توسعه با تجربه کاربری دقیق است.
 
-</div>
+---
 
-<br />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATISTICS                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h3>
-  <img src="https://img.icons8.com/ios-filled/20/C9A227/combo-chart.png" width="18" alt="Statistics" />
-  <img src="https://img.shields.io/badge/03-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="03" />
-  GitHub Statistics
-</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ParzivalRp&show_icons=true&theme=transparent&title_color=C9A227&text_color=F5F5F5&icon_color=C9A227&border_color=30363D&hide_border=false"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ParzivalRp&layout=compact&theme=transparent&title_color=C9A227&text_color=F5F5F5&border_color=30363D&hide_border=false"
-    alt="Most Used Languages"
-  />
-</p>
-
-<br />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        COMMAND CENTER                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h3>
-  <img src="https://img.icons8.com/ios-filled/20/C9A227/command-line.png" width="18" alt="Terminal" />
-  <img src="https://img.shields.io/badge/04-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="04" />
-  Command Center
-</h3>
+## Core Tech Stack
 
 <div align="center">
 
-  <a href="mailto:Abolparzival@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C9A227&labelColor=0D0D0D" alt="Gmail" />
-  </a>
+### Languages
 
-  <a href="https://github.com/ParzivalRp">
-    <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C9A227&labelColor=0D0D0D" alt="GitHub" />
-  </a>
+![JavaScript](https://img.shields.io/badge/JavaScript-C9A227?style=for-the-badge&logo=javascript&logoColor=0D0D0D)
+![TypeScript](https://img.shields.io/badge/TypeScript-C9A227?style=for-the-badge&logo=typescript&logoColor=0D0D0D)
+![Python](https://img.shields.io/badge/Python-C9A227?style=for-the-badge&logo=python&logoColor=0D0D0D)
+![Ruby](https://img.shields.io/badge/Ruby-C9A227?style=for-the-badge&logo=ruby&logoColor=0D0D0D)
+
+### AI, Backend & Infrastructure
+
+![FastAPI](https://img.shields.io/badge/FastAPI-161616?style=for-the-badge&logo=fastapi&logoColor=C9A227)
+![LangGraph](https://img.shields.io/badge/LangGraph-161616?style=for-the-badge&logo=chainlink&logoColor=C9A227)
+![Node.js](https://img.shields.io/badge/Node.js-161616?style=for-the-badge&logo=node.js&logoColor=C9A227)
+![Discord.js](https://img.shields.io/badge/Discord.js-161616?style=for-the-badge&logo=discord&logoColor=C9A227)
+![Telegram](https://img.shields.io/badge/Telegram%20Bots-161616?style=for-the-badge&logo=telegram&logoColor=C9A227)
+
+### Frontend & Design
+
+![Next.js](https://img.shields.io/badge/Next.js-161616?style=for-the-badge&logo=next.js&logoColor=C9A227)
+![React](https://img.shields.io/badge/React-161616?style=for-the-badge&logo=react&logoColor=C9A227)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-161616?style=for-the-badge&logo=tailwindcss&logoColor=C9A227)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-161616?style=for-the-badge&logo=figma&logoColor=C9A227)
 
 </div>
 
-<br />
+---
 
-<div align="center">
-  <sub><i>“Code is not just logic; it's an art.”</i></sub>
-</div>
+## Current Focus
+```text
+Building intelligent tools
+Designing scalable software systems
+Developing AI-powered workflows
+Creating reliable community infrastructure
+Exploring the intersection of AI, finance, and automation
