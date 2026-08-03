@@ -81,29 +81,20 @@
 <!--                       GITHUB STATISTICS                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3>
-  <img src="https://img.icons8.com/ios-filled/20/C9A227/combo-chart.png" width="18" alt="Chart" />
-  <img src="https://img.shields.io/badge/03-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="03" />
-  GitHub Statistics
-</h3>
-
-<div align="center">
-
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ParzivalRp&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=E8E8E8&icon_color=C9A227&ring_color=C9A227"
-    height="165"
-    alt="Parzival GitHub Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=ParzivalRp&show_icons=true&theme=dark"
+    alt="GitHub Stats"
   />
+</p>
 
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParzivalRp&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=E8E8E8"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParzivalRp&layout=compact&theme=dark"
     alt="Most Used Languages"
   />
+</p>
 
-</div>
-
-<br />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        COMMAND CENTER                          -->
