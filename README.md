@@ -88,6 +88,14 @@
 <div align="center">
 
   <img
+    src="./.assets/github-snapshot.svg"
+    width="740"
+    alt="Live GitHub statistics for ParzivalRp"
+  />
+
+  <br /><br />
+
+  <img
     src="https://img.shields.io/github/followers/ParzivalRp?style=for-the-badge&label=FOLLOWERS&labelColor=0D0D0D&color=C9A227&logo=github&logoColor=C9A227"
     alt="GitHub Followers"
   />
