@@ -5,7 +5,7 @@
 <div align="center">
 
   <img
-    src="https://github.com/ParzivalRp/ParzivalRp/blob/main/.assets/avatar.gif?raw=1"
+    src="./.assets/avatar.gif"
     width="155"
     alt="Parzival Avatar"
   />
@@ -81,16 +81,22 @@
 <!--                       GITHUB STATISTICS                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<h3>
+  <img src="https://img.icons8.com/ios-filled/20/C9A227/combo-chart.png" width="18" alt="Statistics" />
+  <img src="https://img.shields.io/badge/03-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="03" />
+  GitHub Statistics
+</h3>
+
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParzivalRp&theme=github_dark"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ParzivalRp&show_icons=true&theme=transparent&title_color=C9A227&text_color=F5F5F5&icon_color=C9A227&border_color=30363D&hide_border=false"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParzivalRp&theme=github_dark"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ParzivalRp&layout=compact&theme=transparent&title_color=C9A227&text_color=F5F5F5&border_color=30363D&hide_border=false"
     alt="Most Used Languages"
   />
 </p>
@@ -98,27 +104,29 @@
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           SHOWCASE                             -->
+<!--                        COMMAND CENTER                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h3>
-  <img src="https://img.icons8.com/ios-filled/20/C9A227/image.png" width="18" alt="Gallery" />
+  <img src="https://img.icons8.com/ios-filled/20/C9A227/command-line.png" width="18" alt="Terminal" />
   <img src="https://img.shields.io/badge/04-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="04" />
-  Gallery
+  Command Center
 </h3>
 
 <div align="center">
 
-  <img
-    src="https://github.com/ParzivalRp/ParzivalRp/blob/main/.assets/photo_1785790203436.jpeg?raw=1"
-    width="45%"
-    alt="Project 1"
-  />
+  <a href="mailto:Abolparzival@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C9A227&labelColor=0D0D0D" alt="Gmail" />
+  </a>
 
-  <img
-    src="https://github.com/ParzivalRp/ParzivalRp/blob/main/.assets/photo_1785790836616.jpeg?raw=1"
-    width="45%"
-    alt="Project 2"
-  />
+  <a href="https://github.com/ParzivalRp">
+    <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C9A227&labelColor=0D0D0D" alt="GitHub" />
+  </a>
 
+</div>
+
+<br />
+
+<div align="center">
+  <sub><i>“Code is not just logic; it's an art.”</i></sub>
 </div>
