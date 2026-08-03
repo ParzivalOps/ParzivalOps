@@ -1,151 +1,79 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- Header Section (Hero) -->
 <div align="center">
+  <!-- Avatar GIF Hero -->
+  <img src="YOUR_AVATAR_GIF_URL_HERE" width="160" style="border-radius: 50%; border: 4px solid #FFD700; box-shadow: 0 0 25px rgba(255, 215, 0, 0.4); margin-bottom: 20px;" alt="Parzival Avatar" />
 
-  <img
-    src="YOUR_AVATAR_GIF_URL_HERE"
-    width="155"
-    alt="Parzival Avatar"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header&text=Parzival%20//%20Abolfazl%20Mohammadi&fontSize=40&fontColor=000000" />
 
-  <br /><br />
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,C9A227&height=150&section=header&text=Parzival%20%2F%2F%20Abolfazl%20Mohammadi&fontSize=35&fontColor=F5F5F5&animation=fadeIn"
-    alt="Parzival Header"
-  />
-
-  <h2>Discord Architect · AI Automation Specialist</h2>
-
-  <p>
-    Building secure, scalable and intelligent systems for modern communities.
-  </p>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=ParzivalRp&label=PROFILE%20VIEWS&color=C9A227&style=flat-square"
-    alt="Profile Views"
-  />
-
+  <h2>Discord Architect & AI Automation Specialist</h2>
+  <p>Building high-scale, secure, and intelligent systems.</p>
 </div>
 
-<br />
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT ME                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- About Me -->
 <h3>
-  <img src="https://img.icons8.com/ios-filled/20/C9A227/user.png" width="18" alt="User" />
-  <img src="https://img.shields.io/badge/01-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="01" />
+  <img src="https://img.icons8.com/ios-filled/24/C9A227/user.png" width="19" alt="About" />
+  <span style="background:#0D0D0D; color:#C9A227; padding:3px 8px; border-radius:5px; border:1px solid #3A2D0B;">01</span>
   About Me
 </h3>
 
-> **Senior Discord Developer & AI Integration Specialist.**  
-> I architect secure and scalable automation systems—not just bots.
->
-> تمرکز من روی مهندسی زیرساخت‌های هوشمند، اتوماسیون دیسکورد،  
-> اتصال LLMها و سرویس‌های AI، و ساخت ابزارهای قابل‌اعتماد برای کامیونیتی‌هاست.
+**EN:** Senior Discord Developer & AI Integration Specialist. I don't just write code; I architect systems that scale. My focus is on Discord automation, AI-driven bots, and high-security integrations.
+<br>
+**FA:** معمار سیستم‌های دیسکورد و متخصص هوش مصنوعی. تمرکز من روی طراحی سیستم‌های اتوماسیون مقیاس‌پذیر و امن است. من فقط بات نمی‌سازم؛ زیرساخت‌های هوشمند برای کامیونیتی‌ها مهندسی می‌کنم.
 
-<br />
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       CORE TECH STACK                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- Core Tech Stack -->
 <h3>
-  <img src="https://img.icons8.com/ios-filled/20/C9A227/source-code.png" width="18" alt="Code" />
-  <img src="https://img.shields.io/badge/02-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="02" />
+  <img src="https://img.icons8.com/ios-filled/24/C9A227/source-code.png" width="19" alt="Tech Stack" />
+  <span style="background:#0D0D0D; color:#C9A227; padding:3px 8px; border-radius:5px; border:1px solid #3A2D0B;">02</span>
   Core Tech Stack
 </h3>
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=C9A227&labelColor=151515" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=151515" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=C9A227&labelColor=151515" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-151515?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=151515" alt="Go" />
-
-  <br />
-
-  <img src="https://img.shields.io/badge/Discord.js-151515?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=151515" alt="Discord.js" />
-  <img src="https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=151515" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Next.js-151515?style=for-the-badge&logo=nextdotjs&logoColor=F5F5F5&labelColor=151515" alt="Next.js" />
-  <img src="https://img.shields.io/badge/LangChain-151515?style=for-the-badge&logo=langchain&logoColor=C9A227&labelColor=151515" alt="LangChain" />
-
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>
 
-<br />
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATISTICS                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- GitHub Statistics -->
 <h3>
-  <img src="https://img.icons8.com/ios-filled/20/C9A227/combo-chart.png" width="18" alt="Chart" />
-  <img src="https://img.shields.io/badge/03-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="03" />
+  <img src="https://img.icons8.com/ios-filled/24/C9A227/combo-chart.png" width="19" alt="Statistics" />
+  <span style="background:#0D0D0D; color:#C9A227; padding:3px 8px; border-radius:5px; border:1px solid #3A2D0B;">03</span>
   GitHub Statistics
 </h3>
 
 <div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ParzivalRp&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=E8E8E8&icon_color=C9A227&ring_color=C9A227"
-    height="165"
-    alt="Parzival GitHub Statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParzivalRp&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=E8E8E8"
-    height="165"
-    alt="Most Used Languages"
-  />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ParzivalRp&theme=dark&show_icons=true&hide_border=true&title_color=FFD700&icon_color=FFD700" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParzivalRp&theme=dark&hide_border=true&title_color=FFD700&layout=compact" height="150px" />
 </div>
 
-<br />
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        COMMAND CENTER                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- Command Center -->
 <h3>
-  <img src="https://img.icons8.com/ios-filled/20/C9A227/command-line.png" width="18" alt="Terminal" />
-  <img src="https://img.shields.io/badge/04-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="04" />
+  <img src="https://img.icons8.com/ios-filled/24/C9A227/command-line.png" width="19" alt="Command Center" />
+  <span style="background:#0D0D0D; color:#C9A227; padding:3px 8px; border-radius:5px; border:1px solid #3A2D0B;">04</span>
   Command Center
 </h3>
 
 <div align="center">
 
-  <a href="mailto:Abolparzival@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C9A227&labelColor=0D0D0D" alt="Gmail" />
-  </a>
-
-  <a href="https://discord.com/users/YOUR_USER_ID_HERE">
-    <img src="https://img.shields.io/badge/Discord-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D" alt="Discord" />
-  </a>
-
-  <a href="https://discord.gg/YOUR_INVITE_LINK">
-    <img src="https://img.shields.io/badge/Moon%20Team-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D" alt="Moon Team" />
-  </a>
-
-  <a href="https://github.com/ParzivalRp">
-    <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C9A227&labelColor=0D0D0D" alt="GitHub" />
-  </a>
-
-  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE">
-    <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=C9A227&labelColor=0D0D0D" alt="Instagram" />
-  </a>
+[![Gmail](https://img.shields.io/badge/Gmail-Abolparzival@gmail.com-000000?style=flat&logo=gmail&logoColor=FFD700&color=000000)](mailto:Abolparzival@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Chat_With_Me-000000?style=flat&logo=discord&logoColor=FFD700&color=000000)](https://discord.com/users/YOUR_USER_ID_HERE)
+[![Support](https://img.shields.io/badge/Support-Moon_Team-000000?style=flat&logo=discord&logoColor=FFD700&color=000000)](https://discord.gg/YOUR_INVITE_LINK)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-000000?style=flat&logo=instagram&logoColor=FFD700&color=000000)](https://instagram.com/YOUR_INSTAGRAM_HANDLE)
 
 </div>
 
-<br />
+---
 
 <div align="center">
-
-  <sub>
-    <i>“Code is not just logic; it's an art.”</i>
-  </sub>
-
+  <p><i>"Code is not just logic; it's an art."</i></p>
 </div>
