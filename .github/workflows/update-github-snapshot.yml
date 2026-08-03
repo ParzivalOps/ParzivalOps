@@ -1,0 +1,120 @@
+name: Update GitHub Snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-snapshot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate statistics card
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require("fs");
+
+            const username = context.repo.owner;
+            const escapeXml = (value) => String(value)
+              .replace(/&/g, "&amp;")
+              .replace(/</g, "&lt;")
+              .replace(/>/g, "&gt;")
+              .replace(/"/g, "&quot;")
+              .replace(/'/g, "&apos;");
+
+            const formatNumber = (value) => {
+              if (value >= 1000000) return `${(value / 1000000).toFixed(1)}M`;
+              if (value >= 1000) return `${(value / 1000).toFixed(1)}K`;
+              return String(value);
+            };
+
+            const profile = await github.rest.users.getByUsername({ username });
+
+            const repositories = [];
+            for (let page = 1; ; page += 1) {
+              const { data } = await github.rest.repos.listForUser({
+                username,
+                type: "owner",
+                sort: "updated",
+                direction: "desc",
+                per_page: 100,
+                page
+              });
+
+              repositories.push(...data);
+
+              if (data.length < 100) break;
+            }
+
+            const totalStars = repositories.reduce(
+              (sum, repository) => sum + repository.stargazers_count,
+              0
+            );
+
+            const languages = repositories
+              .map((repository) => repository.language)
+              .filter(Boolean)
+              .reduce((counts, language) => {
+                counts[language] = (counts[language] || 0) + 1;
+                return counts;
+              }, {});
+
+            const topLanguage = Object.entries(languages)
+              .sort(([, firstCount], [, secondCount]) => secondCount - firstCount)[0]?.[0] || "Building";
+
+            const updatedAt = new Intl.DateTimeFormat("en-US", {
+              day: "2-digit",
+              month: "short",
+              year: "numeric",
+              timeZone: "UTC"
+            }).format(new Date()).toUpperCase();
+
+            const stats = [
+              ["PUBLIC REPOS", formatNumber(profile.data.public_repos)],
+              ["FOLLOWERS", formatNumber(profile.data.followers)],
+              ["TOTAL STARS", formatNumber(totalStars)],
+              ["TOP STACK", escapeXml(topLanguage.toUpperCase())]
+            ];
+
+            const statBlocks = stats.map(([label, value], index) => {
+              const x = index % 2 === 0 ? 32 : 386;
+              const y = index < 2 ? 86 : 168;
+
+              return `
+                <rect x="${x}" y="${y}" width="322" height="62" rx="10" fill="#151515" stroke="#262626"/>
+                <text x="${x + 20}" y="${y + 24}" fill="#A8A8A8" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">${label}</text>
+                <text x="${x + 20}" y="${y + 48}" fill="#E8E8E8" font-family="Arial, sans-serif" font-size="20" font-weight="700">${value}</text>
+                <circle cx="${x + 294}" cy="${y + 31}" r="7" fill="#C9A227"/>
+              `;
+            }).join("");
+
+            const svg = `
+              <svg xmlns="http://www.w3.org/2000/svg" width="740" height="254" viewBox="0 0 740 254" role="img" aria-label="Live GitHub Snapshot">
+                <rect width="740" height="254" rx="16" fill="#0D0D0D"/>
+                <rect x="1" y="1" width="738" height="252" rx="15" fill="none" stroke="#2B2B2B"/>
+                <rect x="32" y="30" width="6" height="28" rx="3" fill="#C9A227"/>
+                <text x="52" y="43" fill="#E8E8E8" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1.2">GITHUB // LIVE SNAPSHOT</text>
+                <text x="52" y="58" fill="#8C8C8C" font-family="Arial, sans-serif" font-size="10" letter-spacing="1.2">AUTO-UPDATED · ${updatedAt}</text>
+                ${statBlocks}
+              </svg>
+            `.trim();
+
+            fs.mkdirSync(".assets", { recursive: true });
+            fs.writeFileSync(".assets/github-snapshot.svg", svg);
+
+      - name: Commit updated snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .assets/github-snapshot.svg
+          git diff --cached --quiet || git commit -m "chore: update GitHub snapshot"
+          git push
