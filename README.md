@@ -5,10 +5,10 @@
 <div align="center">
 
   <img
-    src="https://raw.githubusercontent.com/ParzivalRp/ParzivalRp/main/.assets/avatar.gif"
-    width="155"
-    alt="Parzival Avatar"
-  />
+  src="https://cdn.jsdelivr.net/gh/ParzivalRp/ParzivalRp@main/.assets/avatar.gif"
+  width="155"
+  alt="Parzival Avatar"
+/>
 
   <br /><br />
 
