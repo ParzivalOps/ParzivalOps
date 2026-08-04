@@ -75,29 +75,24 @@
 
 <br />
 
+<!-- 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       GITHUB STATISTICS                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h3>
-  <img src="https://img.icons8.com/ios-filled/20/C9A227/statistics.png" width="18" alt="Statistics" />
+  <img src="https://img.icons8.com/ios-filled/20/C9A227/combo-chart.png" width="18" alt="Stats" />
   <img src="https://img.shields.io/badge/03-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="03" />
   GitHub Statistics
 </h3>
 
 <div align="center">
-
   <img
     src="./.assets/github-snapshot.svg"
-    width="740"
-    alt="Live GitHub statistics for ParzivalRp"
+    alt="GitHub Live Snapshot"
+    width="100%"
   />
-
-</div>
-
-<br />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+</div> ═══════════════════════════════════════════════════════════════ -->
 <!--                           MOONTEAM                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
