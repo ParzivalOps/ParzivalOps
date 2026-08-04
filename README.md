@@ -1,4 +1,3 @@
-
 <!--
 ────────────────────────────────────────────────────────────
                          HERO SECTION
@@ -10,26 +9,31 @@
   <br />
 
   <img
+    src=".assets/avatar.png"
+    width="120"
+    alt="Parzival Avatar"
+  />
+
+  <br /><br />
+
+  <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,C9A227&height=150&section=header&text=Parzival%20%2F%2F%20Abolfazl%20Mohammadi&fontSize=35&fontColor=F5F5F5&animation=fadeIn"
     alt="Parzival Header"
   />
 
-  <h2>Discord Architect · AI Automation Specialist</h2>
-
-  <p>
-    Building secure, scalable and intelligent systems for<br />
-    modern communities.
-  </p>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=ParzivalRp&label=PROFILE%20VIEWS&color=C9A227&style=flat-square"
-    alt="Profile Views"
-  />
-
 </div>
 
-<br />
+## 🔗 Discord Architect · AI Automation Specialist
 
+Building secure, scalable and intelligent systems for modern communities.
+
+<img
+  src="https://komarev.com/ghpvc/?username=ParzivalRp&label=PROFILE%20VIEWS&color=C9A227&style=flat-square"
+  alt="Profile Views"
+/>
+
+<br />
+<br />
 
 
 
