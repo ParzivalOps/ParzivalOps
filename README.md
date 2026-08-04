@@ -4,12 +4,14 @@
 ────────────────────────────────────────────────────────────
 -->
 
+
+
 <div align="center">
 
   <br />
 
   <img
-    src=".assets/avatar.png"
+    src=".assets/avatar_final_clean.png"
     width="120"
     alt="Parzival Avatar"
   />
@@ -23,7 +25,7 @@
 
 </div>
 
-## 🔗 Discord Architect · AI Automation Specialist
+#### 🔗 Discord Architect · AI Automation Specialist
 
 Building secure, scalable and intelligent systems for modern communities.
 
@@ -34,7 +36,6 @@ Building secure, scalable and intelligent systems for modern communities.
 
 <br />
 <br />
-
 
 
 <br />
