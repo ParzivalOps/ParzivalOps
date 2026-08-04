@@ -5,15 +5,21 @@
   <br />
 
  
-<h1 align="center">
-  <a href="https://github.com/ParzivalRp">
-    <img
-      src="https://img.shields.io/badge/GitHub-PV-D4AF37?style=flat-square&labelColor=050505"
-      alt="Parzival GitHub Profile"
-    />
-  </a>
-  &nbsp; Parzival // Abolfazl Mohammadi
-</h1>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,C9A227&height=150&section=header&text=Parzival%20%2F%2F%20Abolfazl%20Mohammadi&fontSize=35&fontColor=F5F5F5&animation=fadeIn"
+  alt="Parzival Header"
+/>
+
+<a href="https://github.com/ParzivalRp">
+  <img
+    src=".assets/moon-logo.png"
+    width="34"
+    alt="ParzivalRp on GitHub"
+  />
+</a>
+
+<h2>Discord Architect · AI Automation Specialist</h2>
+
 
 
 
