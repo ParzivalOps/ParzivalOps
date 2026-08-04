@@ -3,28 +3,14 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <style>
-    .avatar-wrapper {
-      position: relative;
-      width: 180px;
-      height: 180px;
-      margin: 20px auto;
-    }
-    .avatar-img {
-      width: 100%;
-      height: 100%;
-      border-radius: 50%;
-      object-fit: cover;
-      /* درخشش طلایی که روی تصویر اعمال می‌شود */
-      box-shadow: 0 0 15px rgba(255, 215, 0, 0.3), 0 0 30px rgba(255, 165, 0, 0.2);
-      animation: gold-pulse 3s infinite ease-in-out;
-      border: 2px solid rgba(255, 215, 0, 0.5);
-    }
-    @keyframes gold-pulse {
-      0%, 100% { box-shadow: 0 0 15px rgba(255, 215, 0, 0.3); transform: scale(1); }
-      50% { box-shadow: 0 0 35px rgba(255, 215, 0, 0.6); transform: scale(1.02); }
-    }
-  </style>
+  <p align="center">
+  <img
+    src=".assets/avatar.png"
+    width="180"
+    alt="Parzival — Gold Cyber Avatar"
+  />
+</p>
+
 
   <div class="avatar-wrapper">
     <img src=".assets/avatar.png" class="avatar-img" alt="Parzival Profile">
