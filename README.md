@@ -191,7 +191,7 @@
     <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C9A227&labelColor=0D0D0D" alt="GitHub" />
   </a>
 
-  <a href="https://instagram.com/@Parzivalw_">
+  <a href="https://instagram.com/Parzivalw_">
     <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=C9A227&labelColor=0D0D0D" alt="Instagram" />
   </a>
 
