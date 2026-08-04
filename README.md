@@ -3,23 +3,17 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
   <br />
-<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#050505">
-  <tr>
-    <td width="112" align="center" valign="middle">
-      <img
-        src=".assets/avatar_final_clean.png"
-        width="92"
-        alt="Parzival Gold Cyber Avatar"
-      />
-    </td>
-    <td align="left" valign="middle">
-      <h2>Parzival // Abolfazl Mohammadi</h2>
-    </td>
-  </tr>
-</table>
-
 
  
+<h1 align="center">
+  <a href="https://github.com/ParzivalRp">
+    <img
+      src="https://img.shields.io/badge/GitHub-PV-D4AF37?style=flat-square&labelColor=050505"
+      alt="Parzival GitHub Profile"
+    />
+  </a>
+  &nbsp; Parzival // Abolfazl Mohammadi
+</h1>
 
 
 
