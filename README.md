@@ -155,7 +155,7 @@
   <br />
 
   <img
-    src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID?theme=dark&bg=0D0D0D&borderRadius=18px&idleMessage=Probably%20building%20something%20great&showDisplayName=true&hideDiscrim=true"
+    src="https://lanyard.cnrad.dev/api/311194511931998209?theme=dark&bg=0D0D0D&borderRadius=18px&idleMessage=Probably%20building%20something%20great&showDisplayName=true&hideDiscrim=true"
     alt="Parzival Discord Presence"
   />
 
