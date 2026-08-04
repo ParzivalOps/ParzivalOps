@@ -2,20 +2,14 @@
 <!--                         HERO SECTION                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <p align="center">
-  <img
-    src=".assets/avatar.png"
-    width="180"
-    alt="Parzival — Gold Cyber Avatar"
+<p align="center">
+  <img 
+    src=".assets/avatar.png" 
+    width="180" 
+    alt="Parzival - Gold Cyber Avatar"
   />
 </p>
 
-
-  <div class="avatar-wrapper">
-    <img src=".assets/avatar.png" class="avatar-img" alt="Parzival Profile">
-  </div>
-</div>
 
 
   <br /><br />
