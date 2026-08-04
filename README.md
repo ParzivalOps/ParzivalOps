@@ -21,7 +21,6 @@
 
 </a>
 
-<h2>Discord Architect · AI Automation Specialist</h2>
 
 
 
