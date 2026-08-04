@@ -107,13 +107,13 @@ Building secure, scalable and intelligent systems for modern communities.
   MoonTeam
 </h3>
 
-<p align="center">
+<p align="">
   MoonTeam is a small, high-focus team dedicated to crafting premium Discord infrastructure, intelligent automation, and reliable digital products.
   <br />
   MoonTeam یک تیم کوچک و دقیق است که بر مهندسی زیرساخت‌های حرفه‌ای دیسکورد، اتوماسیون هوشمند و محصولات دیجیتال قابل‌اعتماد تمرکز دارد.
 </p>
 
-<div align="center">
+<div align="">
   <a href="https://discord.gg/jxpz4hJAtF">
     <img src="https://img.shields.io/badge/ENTER%20MOONTEAM-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D" alt="Join MoonTeam" />
   </a>
