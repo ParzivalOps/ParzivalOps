@@ -5,7 +5,7 @@
 <div align="center">
 
   <img
-    src="./.assets/avatar.gif"
+    src="./.assets/[YOUR_AVATAR_FILE_NAME].gif"
     width="155"
     alt="Parzival Avatar"
   />
@@ -19,7 +19,9 @@
 
   <h2>Discord Architect · AI Automation Specialist</h2>
 
-  <p>Building secure, scalable and intelligent systems for modern communities.</p>
+  <p>
+    Building secure, scalable and intelligent systems for modern communities.
+  </p>
 
   <img
     src="https://komarev.com/ghpvc/?username=ParzivalRp&label=PROFILE%20VIEWS&color=C9A227&style=flat-square"
@@ -75,7 +77,6 @@
 
 <br />
 
-<!-- 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       GITHUB STATISTICS                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -87,48 +88,37 @@
 </h3>
 
 <div align="center">
-  <img
-    src="./.assets/github-snapshot.svg"
-    alt="GitHub Live Snapshot"
-    width="100%"
-  />
-</div> ═══════════════════════════════════════════════════════════════ -->
-<!--                           MOONTEAM                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h3>
-  <img src="https://img.icons8.com/ios-filled/20/C9A227/crescent-moon.png" width="18" alt="Moon" />
-  <img src="https://img.shields.io/badge/04-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="04" />
-  MoonTeam
-</h3>
-
-<div align="center">
-
-  <p>
-    <strong>MoonTeam</strong> is a small, high-focus team dedicated to crafting
-    premium Discord infrastructure, intelligent automation, and reliable digital products.
-  </p>
-
-  <p dir="rtl">
-    <strong>MoonTeam</strong> یک تیم کوچک و دقیق است که بر مهندسی زیرساخت‌های حرفه‌ای
-    دیسکورد، اتوماسیون هوشمند و محصولات دیجیتال قابل‌اعتماد تمرکز دارد.
-  </p>
-
-  <br />
-
-  <a href="https://discord.gg/jxpz4hJAtF">
-    <img
-      src="https://img.shields.io/badge/ENTER%20MOONTEAM-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D"
-      alt="Join MoonTeam"
-    />
-  </a>
-
+  <img src="./.assets/github-snapshot.svg" alt="GitHub Live Snapshot" width="100%" />
 </div>
 
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        LIVE PRESENCE                           -->
+<!--                            MOONTEAM                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h3>
+  <img src="https://img.icons8.com/ios-filled/20/C9A227/moon-symbol.png" width="18" alt="Moon" />
+  <img src="https://img.shields.io/badge/04-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="04" />
+  MoonTeam
+</h3>
+
+<p align="center">
+  MoonTeam is a small, high-focus team dedicated to crafting premium Discord infrastructure, intelligent automation, and reliable digital products.
+  <br />
+  MoonTeam یک تیم کوچک و دقیق است که بر مهندسی زیرساخت‌های حرفه‌ای دیسکورد، اتوماسیون هوشمند و محصولات دیجیتال قابل‌اعتماد تمرکز دارد.
+</p>
+
+<div align="center">
+  <a href="https://discord.gg/[YOUR_INVITE_LINK]">
+    <img src="https://img.shields.io/badge/ENTER%20MOONTEAM-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D" alt="Join MoonTeam" />
+  </a>
+</div>
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         LIVE PRESENCE                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h3>
@@ -138,22 +128,17 @@
 </h3>
 
 <div align="center">
-
   <p>
     A live view of my Discord presence — current status, activity, and active session.
+    <br />
+    نمای زنده‌ای از وضعیت دیسکورد من؛ شامل استاتوس فعلی، اکتیویتی و سشن فعال.
   </p>
-
-  <p dir="rtl">
-    نمای زنده‌ای از وضعیت دیسکورد من؛ شامل استاتوس فعلی، اکتیویتی فعال.
-  </p>
-
-  <br />
 
   <img
-    src="https://lanyard.cnrad.dev/api/311194511931998209?theme=dark&bg=0D0D0D&borderRadius=18px&idleMessage=Probably%20building%20something%20great&showDisplayName=true&hideDiscrim=true"
+    src="https://lanyard.cnrad.dev/api/[YOUR_DISCORD_USER_ID]?theme=dark&bg=0D0D0D&borderRadius=18px&idleMessage=Probably%20building%20something%20great&showDisplayName=true&hideDiscrim=true"
+    width="100%"
     alt="Parzival Discord Presence"
   />
-
 </div>
 
 <br />
@@ -174,11 +159,11 @@
     <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C9A227&labelColor=0D0D0D" alt="Gmail" />
   </a>
 
-  <a href="https://discord.com/users/311194511931998209">
+  <a href="https://discord.com/users/[YOUR_DISCORD_USER_ID]">
     <img src="https://img.shields.io/badge/Discord-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D" alt="Discord" />
   </a>
 
-  <a href="https://discord.gg/jxpz4hJAtF">
+  <a href="https://discord.gg/[YOUR_INVITE_LINK]">
     <img src="https://img.shields.io/badge/Moon%20Team-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D" alt="Moon Team" />
   </a>
 
@@ -186,7 +171,7 @@
     <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C9A227&labelColor=0D0D0D" alt="GitHub" />
   </a>
 
-  <a href="https://instagram.com/Parzivalw_">
+  <a href="https://www.instagram.com/[YOUR_INSTAGRAM_HANDLE]">
     <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=C9A227&labelColor=0D0D0D" alt="Instagram" />
   </a>
 
@@ -195,5 +180,9 @@
 <br />
 
 <div align="center">
-  <sub><i>“Code is not just logic; it's an art.”</i></sub>
+
+  <sub>
+    <i>“Code is not just logic; it's an art.”</i>
+  </sub>
+
 </div>
