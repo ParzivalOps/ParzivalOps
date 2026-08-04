@@ -4,24 +4,24 @@
 
   <br />
 
-  <img
+ <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#050505">
+  <tr>
+    <!-- Avatar: left side of the black hero bar -->
+    <td width="112" align="center" valign="middle">
+      <img
+        src=".assets/avatar.png"
+        width="92"
+        alt="Parzival Gold Cyber Avatar"
+      />
+    </td>
 
-src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,C9A227&height=150&section=header&text=Parzival%20%2F%2F%20Abolfazl%20Mohammadi&fontSize=35&fontColor=F5F5F5&animation=fadeIn"
-    alt="Parzival Header"
-  />
+    <!-- Title: shifted right after avatar -->
+    <td align="left" valign="middle">
+      <h2>Parzival // Abolfazl Mohammadi</h2>
+    </td>
+  </tr>
+</table>
 
-  <h2>Discord Architect · AI Automation Specialist</h2>
-
-  <p>
-    Building secure, scalable and intelligent systems for modern communities.
-  </p>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=ParzivalRp&label=PROFILE%20VIEWS&color=C9A227&style=flat-square"
-    alt="Profile Views"
-  />
-
-</div>
 
 <br />
 
