@@ -15,5 +15,5 @@
   
   <!-- فایل PNG خودت را اینجا قرار می‌دهیم -->
   <!-- نکته: اگر فایل در همان پوشه .assets است، نام فایل را دقیقا اینجا بنویس -->
-  <image href="avatar.png" width="180" height="180" x="10" y="10" class="gold-glow" />
+  <image href=".assets/avatar.png" width="180" height="180" x="10" y="10" class="gold-glow" />
 </svg>
