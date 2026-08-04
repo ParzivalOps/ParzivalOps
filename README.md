@@ -159,11 +159,11 @@
     <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C9A227&labelColor=0D0D0D" alt="Gmail" />
   </a>
 
-  <a href="https://discord.com/users/[YOUR_DISCORD_USER_ID]">
+  <a href="https://discord.com/users/311194511931998209">
     <img src="https://img.shields.io/badge/Discord-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D" alt="Discord" />
   </a>
 
-  <a href="https://discord.gg/[YOUR_INVITE_LINK]">
+  <a href="https://discord.gg/jxpz4hJAtF">
     <img src="https://img.shields.io/badge/Moon%20Team-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D" alt="Moon Team" />
   </a>
 
@@ -171,7 +171,7 @@
     <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C9A227&labelColor=0D0D0D" alt="GitHub" />
   </a>
 
-  <a href="https://www.instagram.com/[YOUR_INSTAGRAM_HANDLE]">
+  <a href="https://www.instagram.com/Parzivalw_">
     <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=C9A227&labelColor=0D0D0D" alt="Instagram" />
   </a>
 
