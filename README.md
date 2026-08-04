@@ -3,12 +3,13 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
    <p align="center">
-  <img 
-    src=".assets/avatar.svg" 
-    width="180" 
-    alt="Parzival - Glowing Cyber Avatar"
+  <img
+    src=".assets/avatar.jpg"
+    width="180"
+    alt="Parzival - Gold Cyber Avatar"
   />
 </p>
+
 
 
   <br /><br />
