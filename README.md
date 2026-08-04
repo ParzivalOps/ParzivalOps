@@ -30,6 +30,7 @@ Building secure, scalable and intelligent systems for modern communities.
   alt="Profile Views"
 />
 
+<br />
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
