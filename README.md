@@ -27,7 +27,7 @@
   </style>
 
   <div class="avatar-wrapper">
-    <img src=".assets/image_gen_3e3688c9-c282-47fb-9443-51125de0e605_0.png" class="avatar-img" alt="Parzival Profile">
+    <img src=".assets/avatar.png" class="avatar-img" alt="Parzival Profile">
   </div>
 </div>
 
