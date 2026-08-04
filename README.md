@@ -107,12 +107,6 @@
       alt="Profile Repository Stars"
     />
   </a>
-  <a href="https://github.com/ParzivalRp?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Repositories-View%20Projects-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=C9A227&logo=github&logoColor=C9A227"
-      alt="View GitHub Repositories"
-    />
-  </a>
 
 </div>
  ═══════════════════════════════════════════════════════════════ -->
