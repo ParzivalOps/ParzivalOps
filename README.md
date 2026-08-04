@@ -12,7 +12,7 @@
 
 <a href="https://github.com/ParzivalRp">
   <img
-    src=".assets/moon-logo.png"
+    src=".assets/avatar_final_clean.png"
     width="34"
     alt="ParzivalRp on GitHub"
   />
