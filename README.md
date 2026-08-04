@@ -110,7 +110,7 @@
 </p>
 
 <div align="center">
-  <a href="https://discord.gg/[YOUR_INVITE_LINK]">
+  <a href="https://discord.gg/jxpz4hJAtF">
     <img src="https://img.shields.io/badge/ENTER%20MOONTEAM-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D" alt="Join MoonTeam" />
   </a>
 </div>
@@ -135,7 +135,7 @@
   </p>
 
   <img
-    src="https://lanyard.cnrad.dev/api/[YOUR_DISCORD_USER_ID]?theme=dark&bg=0D0D0D&borderRadius=18px&idleMessage=Probably%20building%20something%20great&showDisplayName=true&hideDiscrim=true"
+    src="https://lanyard.cnrad.dev/api311194511931998209?theme=dark&bg=0D0D0D&borderRadius=18px&idleMessage=Probably%20building%20something%20great&showDisplayName=true&hideDiscrim=true"
     width="100%"
     alt="Parzival Discord Presence"
   />
