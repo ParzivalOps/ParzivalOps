@@ -19,7 +19,7 @@
     alt="Parzival Avatar"
   />
 
-  <br />
+  
 
 #### 🔗 Discord Architect · AI Automation Specialist
 
