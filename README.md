@@ -113,12 +113,6 @@
       alt="View GitHub Repositories"
     />
   </a>
-  <a href="https://github.com/ParzivalRp">
-    <img
-      src="https://img.shields.io/badge/GitHub-ParzivalRp-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=C9A227&logo=github&logoColor=C9A227"
-      alt="ParzivalRp GitHub Profile"
-    />
-  </a>
 
 </div>
  ═══════════════════════════════════════════════════════════════ -->
