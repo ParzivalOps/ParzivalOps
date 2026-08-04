@@ -3,10 +3,8 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
   <br />
-
- <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#050505">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#050505">
   <tr>
-    <!-- Avatar: left side of the black hero bar -->
     <td width="112" align="center" valign="middle">
       <img
         src=".assets/avatar.png"
@@ -15,12 +13,14 @@
       />
     </td>
 
-    <!-- Title: shifted right after avatar -->
     <td align="left" valign="middle">
       <h2>Parzival // Abolfazl Mohammadi</h2>
     </td>
   </tr>
 </table>
+
+ 
+
 
 
 <br />
