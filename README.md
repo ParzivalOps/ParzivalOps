@@ -5,10 +5,11 @@
 <div align="center">
 
   <img
-    src=".assets.assets/76087bda-9290-4752-a638-f4e9d54d1327.png"
-    width="155"
-    alt="Parzival Avatar"
-  />
+  src=".assets/.assets/76087bda-9290-4752-a638-f4e9d54d1327.png"
+  width="155"
+  alt="Parzival Avatar"
+/>
+
 
   <br /><br />
 
