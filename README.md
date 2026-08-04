@@ -3,11 +3,8 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
    <p align="center">
-  <img
-    src=".assets/avatar.jpg"
-    width="180"
-    alt="Parzival - Gold Cyber Avatar"
-  />
+  <img src=".assets/avatar_final_clean.png" width="180" alt="Parzival Gold Cyber Avatar" />
+
 </p>
 
 
