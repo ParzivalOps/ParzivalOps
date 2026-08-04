@@ -5,7 +5,7 @@
 <div align="center">
 
   <img
-    src="./.assets/photo_1785790203436.jpeg"
+    src="./.assets/photo_1785801932267.jpeg"
     width="155"
     alt="Parzival Avatar"
   />
@@ -88,50 +88,3 @@
 <div align="center">
 
   <img
-    src="./.assets/github-snapshot.svg"
-    width="740"
-    alt="Live GitHub statistics for ParzivalRp"
-  />
-
-  <br />
-
-</div>
- ═══════════════════════════════════════════════════════════════ -->
-<!--                        COMMAND CENTER                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h3>
-  <img src="https://img.icons8.com/ios-filled/20/C9A227/command-line.png" width="18" alt="Terminal" />
-  <img src="https://img.shields.io/badge/04-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="04" />
-  Command Center
-</h3>
-
-<div align="center">
-
-  <a href="mailto:Abolparzival@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C9A227&labelColor=0D0D0D" alt="Gmail" />
-  </a>
-
-  <a href="https://discord.com/users/YOUR_USER_ID_HERE">
-    <img src="https://img.shields.io/badge/Discord-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D" alt="Discord" />
-  </a>
-
-  <a href="https://discord.gg/YOUR_INVITE_LINK">
-    <img src="https://img.shields.io/badge/Moon%20Team-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D" alt="Moon Team" />
-  </a>
-
-  <a href="https://github.com/ParzivalRp">
-    <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C9A227&labelColor=0D0D0D" alt="GitHub" />
-  </a>
-
-  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE">
-    <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=C9A227&labelColor=0D0D0D" alt="Instagram" />
-  </a>
-
-</div>
-
-<br />
-
-<div align="center">
-  <sub><i>“Code is not just logic; it's an art.”</i></sub>
-</div>
