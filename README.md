@@ -3,12 +3,33 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+  <style>
+    .avatar-wrapper {
+      position: relative;
+      width: 180px;
+      height: 180px;
+      margin: 20px auto;
+    }
+    .avatar-img {
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      object-fit: cover;
+      /* درخشش طلایی که روی تصویر اعمال می‌شود */
+      box-shadow: 0 0 15px rgba(255, 215, 0, 0.3), 0 0 30px rgba(255, 165, 0, 0.2);
+      animation: gold-pulse 3s infinite ease-in-out;
+      border: 2px solid rgba(255, 215, 0, 0.5);
+    }
+    @keyframes gold-pulse {
+      0%, 100% { box-shadow: 0 0 15px rgba(255, 215, 0, 0.3); transform: scale(1); }
+      50% { box-shadow: 0 0 35px rgba(255, 215, 0, 0.6); transform: scale(1.02); }
+    }
+  </style>
 
-  <img
-  src=".assets/76087bda-9290-4752-a638-f4e9d54d1327.png"
-  width="155"
-  alt="Parzival Avatar"
-/>
+  <div class="avatar-wrapper">
+    <img src=".assets/image_gen_3e3688c9-c282-47fb-9443-51125de0e605_0.png" class="avatar-img" alt="Parzival Profile">
+  </div>
+</div>
 
 
   <br /><br />
