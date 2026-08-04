@@ -16,7 +16,7 @@
     width="34"
     alt="ParzivalRp on GitHub"
 
-<h2>Discord Architect · AI Automation Specialist</h2>
+Discord Architect · AI Automation Specialist
 
   />
 
