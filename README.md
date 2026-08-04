@@ -95,19 +95,6 @@
 
   <br />
 
-  <a href="https://github.com/ParzivalRp?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/ParzivalRp?style=for-the-badge&label=FOLLOWERS&labelColor=0D0D0D&color=C9A227&logo=github&logoColor=C9A227"
-      alt="GitHub Followers"
-    />
-  </a>
-  <a href="https://github.com/ParzivalRp/ParzivalRp/stargazers">
-    <img
-      src="https://img.shields.io/github/stars/ParzivalRp/ParzivalRp?style=for-the-badge&label=PROFILE%20STARS&labelColor=0D0D0D&color=C9A227&logo=github&logoColor=C9A227"
-      alt="Profile Repository Stars"
-    />
-  </a>
-
 </div>
  ═══════════════════════════════════════════════════════════════ -->
 <!--                        COMMAND CENTER                          -->
