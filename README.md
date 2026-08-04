@@ -3,14 +3,6 @@
                          HERO SECTION
 ────────────────────────────────────────────────────────────
 -->
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,C9A227&height=150&section=header&text=Parzival%20%2F%2F%20Abolfazl%20Mohammadi&fontSize=35&fontColor=F5F5F5&animation=fadeIn"
-    alt="Parzival Header"
-  />
-
-</div>
-
 <div align="center">
 
   <img
@@ -18,6 +10,13 @@
     width="120"
     alt="Parzival Avatar"
   />
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,C9A227&height=150&section=header&text=Parzival%20%2F%2F%20Abolfazl%20Mohammadi&fontSize=35&fontColor=F5F5F5&animation=fadeIn"
+    alt="Parzival Header"
+  />
+
+</div>
 
   <br />
 
