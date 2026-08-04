@@ -33,9 +33,6 @@ Building secure, scalable and intelligent systems for modern communities.
 <br />
 <br />
 
-
-<br />
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
