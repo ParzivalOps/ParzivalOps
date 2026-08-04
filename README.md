@@ -7,7 +7,7 @@
   <tr>
     <td width="112" align="center" valign="middle">
       <img
-        src=".assets/avatar.png"
+        src=".assets/avatar_final_clean.png"
         width="92"
         alt="Parzival Gold Cyber Avatar"
       />
