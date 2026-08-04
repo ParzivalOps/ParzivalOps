@@ -88,3 +88,117 @@
 <div align="center">
 
   <img
+    src="./.assets/github-snapshot.svg"
+    width="740"
+    alt="Live GitHub statistics for ParzivalRp"
+  />
+
+</div>
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                           MOONTEAM                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h3>
+  <img src="https://img.icons8.com/ios-filled/20/C9A227/crescent-moon.png" width="18" alt="Moon" />
+  <img src="https://img.shields.io/badge/04-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="04" />
+  MoonTeam
+</h3>
+
+<div align="center">
+
+  <p>
+    <strong>MoonTeam</strong> is a small, high-focus team dedicated to crafting
+    premium Discord infrastructure, intelligent automation, and reliable digital products.
+  </p>
+
+  <p dir="rtl">
+    <strong>MoonTeam</strong> یک تیم کوچک و دقیق است که بر مهندسی زیرساخت‌های حرفه‌ای
+    دیسکورد، اتوماسیون هوشمند و محصولات دیجیتال قابل‌اعتماد تمرکز دارد.
+  </p>
+
+  <br />
+
+  <a href="https://discord.gg/YOUR_INVITE_LINK">
+    <img
+      src="https://img.shields.io/badge/ENTER%20MOONTEAM-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D"
+      alt="Join MoonTeam"
+    />
+  </a>
+
+</div>
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        LIVE PRESENCE                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h3>
+  <img src="https://img.icons8.com/ios-filled/20/C9A227/online.png" width="18" alt="Live" />
+  <img src="https://img.shields.io/badge/05-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="05" />
+  Live Presence
+</h3>
+
+<div align="center">
+
+  <p>
+    A live view of my Discord presence — current status, activity, and active session.
+  </p>
+
+  <p dir="rtl">
+    نمای زنده‌ای از وضعیت دیسکورد من؛ شامل استاتوس فعلی، اکتیویتی و سشن فعال.
+  </p>
+
+  <br />
+
+  <img
+    src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID?theme=dark&bg=0D0D0D&borderRadius=18px&idleMessage=Probably%20building%20something%20great&showDisplayName=true&hideDiscrim=true"
+    alt="Parzival Discord Presence"
+  />
+
+</div>
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        COMMAND CENTER                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h3>
+  <img src="https://img.icons8.com/ios-filled/20/C9A227/command-line.png" width="18" alt="Terminal" />
+  <img src="https://img.shields.io/badge/06-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="06" />
+  Command Center
+</h3>
+
+<div align="center">
+
+  <a href="mailto:Abolparzival@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C9A227&labelColor=0D0D0D" alt="Gmail" />
+  </a>
+
+  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
+    <img src="https://img.shields.io/badge/Discord-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D" alt="Discord" />
+  </a>
+
+  <a href="https://discord.gg/YOUR_INVITE_LINK">
+    <img src="https://img.shields.io/badge/Moon%20Team-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D" alt="Moon Team" />
+  </a>
+
+  <a href="https://github.com/ParzivalRp">
+    <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C9A227&labelColor=0D0D0D" alt="GitHub" />
+  </a>
+
+  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE">
+    <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=C9A227&labelColor=0D0D0D" alt="Instagram" />
+  </a>
+
+</div>
+
+<br />
+
+<div align="center">
+  <sub><i>“Code is not just logic; it's an art.”</i></sub>
+</div>
