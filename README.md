@@ -13,15 +13,13 @@
 
 <div align="center">
 
-  <br />
-
   <img
     src=".assets/avatar_final_clean.png"
     width="120"
     alt="Parzival Avatar"
   />
 
-  <br /><br />
+  <br />
 
 #### 🔗 Discord Architect · AI Automation Specialist
 
