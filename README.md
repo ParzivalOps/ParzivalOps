@@ -5,7 +5,7 @@
 <div align="center">
 
   <img
-    src="./.assets/[YOUR_AVATAR_FILE_NAME].gif"
+    src="./.assets/avatar.gif"
     width="155"
     alt="Parzival Avatar"
   />
