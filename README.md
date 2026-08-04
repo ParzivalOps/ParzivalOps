@@ -7,9 +7,7 @@
 
 </p>
 
-
-
-  <br /><br />
+  <br />
 
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,C9A227&height=150&section=header&text=Parzival%20%2F%2F%20Abolfazl%20Mohammadi&fontSize=35&fontColor=F5F5F5&animation=fadeIn"
