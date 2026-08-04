@@ -12,12 +12,12 @@
         alt="Parzival Gold Cyber Avatar"
       />
     </td>
-
     <td align="left" valign="middle">
       <h2>Parzival // Abolfazl Mohammadi</h2>
     </td>
   </tr>
 </table>
+
 
  
 
