@@ -10,6 +10,9 @@
   />
 </p>
 
+   <p align="center">
+     <img src=".assets/avatar-glow.svg" width="180" alt="Parzival Gold" />
+   </p>
 
 
   <br /><br />
