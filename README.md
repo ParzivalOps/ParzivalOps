@@ -12,25 +12,23 @@
   />
 
   <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,C9A227&height=150&section=header&text=Parzival%20%2F%2F%20Abolfazl%20Mohammadi&fontSize=35&fontColor=F5F5F5&animation=fadeIn"
-  alt="Parzival Header"
-/>
-
-
+    src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,C9A227&height=150&section=header&text=Parzival%20%2F%2F%20Abolfazl%20Mohammadi&fontSize=35&fontColor=F5F5F5&animation=fadeIn"
+    alt="Parzival Header"
+  />
 
 </div>
 
+#### 🔗 Discord Infrastructure Architect · AI Automation Engineer
 
-#### 🔗 Discord Architect · AI Automation Specialist
-
-Building secure, scalable and intelligent systems for modern communities.
+Building secure, scalable, and intelligent systems for modern communities.
 
 <img
-  src="https://komarev.com/ghpvc/?username=ParzivalRp&label=PROFILE%20VIEWS&color=C9A227&style=flat-square"
+  src="https://komarev.com/ghpvc/?username=ParzivalOps&label=PROFILE%20VIEWS&color=C9A227&style=flat-square"
   alt="Profile Views"
 />
 
 <br />
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -42,9 +40,9 @@ Building secure, scalable and intelligent systems for modern communities.
 </h3>
 
 > **Senior Discord Developer & AI Integration Specialist.**  
-> I don't just write code; I architect systems that scale. My focus is on Discord automation, AI-driven bots, and high-security integrations.
+> I design and engineer scalable Discord infrastructure, AI-powered automation, and high-security community systems. My work goes beyond bot development — I build reliable operational foundations for modern communities.
 >
-> معمار سیستم‌های دیسکورد و متخصص هوش مصنوعی. تمرکز من روی طراحی سیستم‌های اتوماسیون مقیاس‌پذیر و امن است. من فقط بات نمی‌سازم؛ زیرساخت‌های هوشمند برای کامیونیتی‌ها مهندسی می‌کنم.
+> Formerly active under **`Parzivalw00`**, now building under the **ParzivalOps** identity.
 
 <br />
 
@@ -70,7 +68,8 @@ Building secure, scalable and intelligent systems for modern communities.
   <img src="https://img.shields.io/badge/Discord.js-151515?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=151515" alt="Discord.js" />
   <img src="https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=151515" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Next.js-151515?style=for-the-badge&logo=nextdotjs&logoColor=F5F5F5&labelColor=151515" alt="Next.js" />
-  <img src="https://img.shields.io/badge/LangChain-151515?style=for-the-badge&logo=langchain&logoColor=C9A227&labelColor=151515" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-151515?style=for-the-badge&logoColor=C9A227&labelColor=151515" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LLM%20Systems-151515?style=for-the-badge&logoColor=C9A227&labelColor=151515" alt="LLM Systems" />
 
 </div>
 
@@ -93,19 +92,41 @@ Building secure, scalable and intelligent systems for modern communities.
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    COMMUNITY ENGINEERING                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h3>
+  <img src="https://img.icons8.com/ios-filled/20/C9A227/conference-call.png" width="18" alt="Community" />
+  <img src="https://img.shields.io/badge/04-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="04" />
+  Community Engineering
+</h3>
+
+<p>
+  I have worked across public, private, streamer, and developer-focused Discord environments, contributing to infrastructure design, permission systems, security operations, bot management, and community automation.
+  <br />
+  My hands-on experience includes communities ranging from private operational setups to public servers with approximately <strong>100,000 members</strong>.
+</p>
+
+<div align="center">
+  <a href="./COMMUNITY-WORK.md">
+    <img src="https://img.shields.io/badge/VIEW%20COMMUNITY%20WORK-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D" alt="Community Work" />
+  </a>
+</div>
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                            MOONTEAM                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h3>
   <img src="https://img.icons8.com/ios-filled/20/C9A227/moon-symbol.png" width="18" alt="Moon" />
-  <img src="https://img.shields.io/badge/04-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="04" />
+  <img src="https://img.shields.io/badge/05-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="05" />
   MoonTeam
 </h3>
 
 <p align="">
   MoonTeam is a small, high-focus team dedicated to crafting premium Discord infrastructure, intelligent automation, and reliable digital products.
-  <br />
-  MoonTeam یک تیم کوچک و دقیق است که بر مهندسی زیرساخت‌های حرفه‌ای دیسکورد، اتوماسیون هوشمند و محصولات دیجیتال قابل‌اعتماد تمرکز دارد.
 </p>
 
 <div align="center">
@@ -122,15 +143,13 @@ Building secure, scalable and intelligent systems for modern communities.
 
 <h3>
   <img src="https://img.icons8.com/ios-filled/20/C9A227/online.png" width="18" alt="Live" />
-  <img src="https://img.shields.io/badge/05-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="05" />
+  <img src="https://img.shields.io/badge/06-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="06" />
   Live Presence
 </h3>
 
 <div align="center">
   <p>
     A live view of my Discord presence — current status, activity, and active session.
-    <br />
-    نمای زنده‌ای از وضعیت دیسکورد من؛ شامل استاتوس فعلی، اکتیویتی و سشن فعال.
   </p>
 
   <img
@@ -148,13 +167,13 @@ Building secure, scalable and intelligent systems for modern communities.
 
 <h3>
   <img src="https://img.icons8.com/ios-filled/20/C9A227/command-line.png" width="18" alt="Terminal" />
-  <img src="https://img.shields.io/badge/06-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="06" />
+  <img src="https://img.shields.io/badge/07-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C9A227" height="20" alt="07" />
   Command Center
 </h3>
 
 <div align="center">
 
-  <a href="mailto:Abolparzival@gmail.com">
+  <a href="mailto:abolparzival@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C9A227&labelColor=0D0D0D" alt="Gmail" />
   </a>
 
@@ -166,7 +185,7 @@ Building secure, scalable and intelligent systems for modern communities.
     <img src="https://img.shields.io/badge/Moon%20Team-0D0D0D?style=for-the-badge&logo=discord&logoColor=C9A227&labelColor=0D0D0D" alt="Moon Team" />
   </a>
 
-  <a href="https://github.com/ParzivalRp">
+  <a href="https://github.com/ParzivalOps">
     <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C9A227&labelColor=0D0D0D" alt="GitHub" />
   </a>
 
