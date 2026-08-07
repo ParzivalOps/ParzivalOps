@@ -125,9 +125,29 @@ Building secure, scalable, and intelligent systems for modern communities.
   MoonTeam
 </h3>
 
-<p align="">
-  MoonTeam is a small, high-focus team dedicated to crafting premium Discord infrastructure, intelligent automation, and reliable digital products.
+<p>
+  MoonTeam is a small, high-focus team dedicated to crafting premium Discord
+  infrastructure, intelligent automation, security systems, and reliable
+  digital products.
+
+  <br /><br />
+
+  <strong>RorySecurity</strong> is my production-deployed security SaaS product,
+  designed and developed by me before becoming an official project under the
+  <strong>MoonTeam-Dev</strong> organization.
 </p>
+
+<div align="center">
+  <a href="https://github.com/MoonTeam-Dev">
+    <img src="https://img.shields.io/badge/VISIT%20MOONTEAM--DEV-0D0D0D?style=for-the-badge&logo=github&logoColor=C9A227&labelColor=0D0D0D" alt="Visit MoonTeam-Dev Organization" />
+  </a>
+
+  <a href="https://github.com/MoonTeam-Dev/RorySecurity">
+    <img src="https://img.shields.io/badge/EXPLORE%20RORYSECURITY-C9A227?style=for-the-badge&logo=github&logoColor=0D0D0D&labelColor=C9A227" alt="Explore RorySecurity" />
+  </a>
+</div>
+
+<br />
 
 <div align="center">
   <a href="https://discord.gg/jxpz4hJAtF">
